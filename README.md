@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🧑🏻‍💻 Leon Tan
 
-<!--
-**leontan29/leontan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` Developer/Futbol Fanatic ```
 
-Here are some ideas to get you started:
+I'm a Master of Computer Science student at UIUC who enjoys planning and solving complex problems with code. Whether it's optimizing database queries, building efficient algorithms, or designing intuitive systems, I love tackling challenges with a structured and creative approach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Languages and Tools 
+
+<img align = "left" alt = "Java" width = "30px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align = "left" alt = "Java" width = "30px" style = "padding-right:10px;" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align = "left" alt = "Java" width = "30px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align = "left" alt = "Java" width = "30px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align = "left" alt = "Java" width = "30px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "30px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+
+
+          
+
+          
+
